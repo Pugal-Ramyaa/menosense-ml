@@ -1,5 +1,4 @@
 from flask import Flask, request, jsonify
-from sklearn.preprocessing import LabelEncoder
 import numpy as np
 import joblib
 import pandas as pd
